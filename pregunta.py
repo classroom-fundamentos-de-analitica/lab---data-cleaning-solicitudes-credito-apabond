@@ -27,8 +27,5 @@ def clean_data():
     
     df.drop_duplicates(inplace = True)
 
-    #
-    # Inserte su código aquí
-    #
-
+    
     return df
